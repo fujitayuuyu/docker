@@ -37,7 +37,7 @@ newgrp docker
 
 ## (7) docker versionと打ち込んでインストールされてるはずのDocker情報が出るか確認。
 ```
-docker-compose
+docker --version
 ```
 
 ## (8) docker-composeをKaliに入れる
